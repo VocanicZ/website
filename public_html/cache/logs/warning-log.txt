@@ -1,0 +1,1 @@
+[2023-06-20, 05:14:14] Failure connecting to AuthMe DB during registration process: 1045 - SQLSTATE[HY000] [1045] Access denied for user 'u302265335_auth'@'2a02:4780:3:15::a' (using password: YES)
