@@ -1,0 +1,1 @@
+{"result":{"time":1691453246,"expire":30,"data":"s:102:\"{\n    \"error\": true,\n    \"value\": \"Failed to connect or create a socket: 110 (Connection timed out)\"\n}\";"}}
